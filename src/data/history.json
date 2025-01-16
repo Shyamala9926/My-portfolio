@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Android Devloper",
+    "organisation": "24HR7 PRV Limited",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": ["worked As Android Devloper"],
+    "imageSrc": "./assets/history/google.png"
+   
+  },
+  {
+    "role": "Full Stack Devloper",
+    "organisation": "Excelr",
+    "startDate": "Aug, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Full stack Developer"],
+    "imageSrc": "./assets/history/Excelr.png"
+  },
+  {
+    "role": "Full Stack Devloper Course",
+    "organisation": "Udemy",
+    "startDate": "Dec, 2024",
+    
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "./assets/history/image.png"
+  }
+]

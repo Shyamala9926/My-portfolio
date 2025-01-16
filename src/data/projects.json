@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Youtube-Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a functional YouTube Clone web application designed to mimic the core features of YouTube",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://shyamala9926.github.io/Youtube-Clone/"
+  },
+  {
+    "title": "JAICOB : DATA SCIENCE CHATBOT",
+    "imageSrc": "projects/project.png",
+    "description": "The Jaicob Data Science Chatbot is an AI assistant that helps users .",
+    "skills": ["Python", "MYSQL", "Jupytor", "Anaconda"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AI IN EDUCATION: PERSONALIZED LEARNING",
+    "imageSrc": "projects/project.png",
+    "description": "AI in Education is advancing personalizedlearning approaches tailored to individual student needs.",
+    "skills": ["Python", "MYSQL", "Jupytor", "IDLE"],
+    "demo": "https://www.example.com"
+    
+  }
+]
