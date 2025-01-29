@@ -48,6 +48,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Education </h3>
               <hr />
+              <p>M-Tech - pursuing</p>
               <p>B.Tech in CSE, 2024</p>
               <p>Diploma in CSE, 2021</p>
             </div>
