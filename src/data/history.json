@@ -5,7 +5,7 @@
     "startDate": "Sept, 2024",
     "endDate": "Present",
     "experiences": ["worked As Android Devloper"],
-    "imageSrc": "./assets/history/google.png"
+    "imageSrc": "./assets/history/image.png"
    
   },
   {
@@ -25,6 +25,6 @@
       "Worked on component library",
       "Helped create UI components"
     ],
-    "imageSrc": "./assets/history/image.png"
+    "imageSrc": "./assets/history/udemy.png"
   }
 ]
