@@ -29,7 +29,7 @@ Check it out here: [https://shyamala9926.github.io/My-portfolio/]
 
 ## 📦 Getting Started
 
-To run this project locally:
+
 
 
 
