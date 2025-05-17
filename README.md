@@ -31,7 +31,6 @@ Check it out here: [https://shyamala9926.github.io/My-portfolio/]
 
 To run this project locally:
 
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
+
 
 
