@@ -27,7 +27,7 @@ Check it out here: [https://shyamala9926.github.io/My-portfolio/]
 - Project showcase
 - Contact links
 
-## 📦 Getting Started
+x
 
 
 
