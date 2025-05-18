@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ## 📍 Live Demo
 
-Check it out here: [https://shyamala9926.github.io/My-portfolio/
+Check it out here: https://shyamala9926.github.io/My-portfolio/
 
 ## 🛠️ Tech Stack
 
